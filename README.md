@@ -13,6 +13,7 @@ A  presentation for stakeholders.
 The original and cleaned datasets.
 
 🎯 Project Objectives
+
 Understand trends and factors associated with aviation accidents.
 
 Analyze aircraft types, phases of flight, and accident severity.
