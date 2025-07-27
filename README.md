@@ -72,7 +72,7 @@ git clone this repo
 cd dsc-phase-1-project-v3
 Open and run the Jupyter Notebook to view the full analysis.
 
-Open (https://public.tableau.com/app/profile/ashley.nyaboke/viz/PROJECTDASHBOARD_17535159092710/AviationAccidentsinsights?publish=yes) in Tableau to explore the visual dashboard. in Tableau to explore the visual dashboard.
+Open (https://public.tableau.com/app/profile/ashley.nyaboke/viz/PROJECTDASHBOARD_17535159092710/AviationAccidentsinsights?publish=yes) in Tableau to explore the visual dashboard.
 
 ✅ Recommendations
 Prefer certain aircraft types with historically low accident rates for commercial operations.
